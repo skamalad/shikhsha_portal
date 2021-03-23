@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "codename-shikhsha",
+  "private_key_id": "94d3dc78e73d964f77f31e9a18e390fd6826373c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCaZ9MCIo2ATL5P\niQGf7GkMt4eA9IpQKS4PL3GbTgn19aPGTRwe/fw1UzB2zWTSpjIjpuurSccsV/ea\nDI5wuL059sNQraDvqhTDytvbikdJ54GfVya0DtUOaBQWGmGWFC8IBU/Vlv2AgcVr\niPvHoSlwfq+UVRW8goaQ+6Z+n9iyVQ6oTs5lZh79tUk59Zxd4AfeX17HjPQP+ZEk\nyraS2hVPaqiWJhg2UmvP970IyzPoBp9bDZniEPpixIsdBs43cP4xlVNtlxIFNNaC\n8k2lXJwzy2x1rN6tExFTCMIrZ5Z/LZRqC5LEosfUrX/yzOEgiQjAvwhBwDI1VZi0\n38UyhN19AgMBAAECggEAQ41192KnlsC8qG5wDAgx45LuEUCrvKtvj8w5f3FykS3h\nc7IrwfFr5Oaa9vcgi7qTiB6Qz9VM8v0fgkHJFc71VsU7qXH1TbWTNR/s9Y13aAGF\np/FIqREuLInjc9Ih7Ley5ebxCSjwisb72PLK+Qls6F88sQBSrLFMb2Tx8Ec91rMK\nsT3RbzRTJwhraqElJ2P/VugypV3UaNA9kShTvPZW5mCeR/GR7kwD2OPKS1AlNW05\nGZV+DxbVKeWkz5BuWqLt+kRpwMxN6rB3TXZmtPVOk22mjZHPDCri0HAbmbmuzE8G\nbm5EWCUSUkAlygbCmUnPqFE/iFpRX6P7J/HkP9NW7wKBgQDREXDRcL9oclnQtVcp\nfxSxqpg+O3N+LCrbFHQfkm8LTXtF5t1jOc6LTjhIgTxYnzhPzFwZJVpQGUuYWSsb\nyAlmlSotfFHlGGbBYU/ZHidWRsW4SZ+jyu3bTfpbPk6GiyJkmSROim4VcPHMkqD3\nsj1cKGyryLtNWx4Ou6w8/IqxiwKBgQC9ERRGmNesXgOCK1IikDbFMluentFuuTn8\ntxzxyH6KPEunn/pCMecw4Ha33LxULKxOgWzHkxFicmk0pV/aCDdnkMEqFVcrNfhP\nP0C23PKSt5H/BFtv+xr3QAZRKQFKSqjrInQp06sPpybmPB4+64R2wESvKY/gSTCE\nwWTQsJX+FwKBgCm9/rWCemUDN9WI7180pVAXzI/YVOXjMadOPSU0moE6NhutzZQL\nLab4thob242iNJ8SIW1P3OlTM5m2a/n/BYl6zNIKGVvRdGq14DhsYdRDCyURZhNQ\n6A66Ufs3xHvuea52OR6JWxNi2pRKzmLGLqQg2hmuWV9HiwfMBsaicZqjAoGANX3V\njLvFmWDoATYcgOboeBZtUY2Bl6AURenQ6J9fHeE9Tmm2tm/EB1IahJ6RMgeJoJSB\noF19t6rDFUAMxHU6p7SO0kdDaFhWrqUovBP7FYOWbN5guGgFExssLl45nTlOXWhc\nEVFvvnf+S3mK3SZpTefMBvrtV/mdHpJQ4bJ0XXUCgYBFrna9cHzzXW1pwNPZiJ2n\n7rye+1V1BtOdrdLdt1Qm+axHwaPdZJ2cG0Wqc9UwYSObt87LnhEKqeQS6f7Og48s\n4n24FDpMRI9k47usN+Gw2rAdonqyDUnET2+js4kL0FFVCT9+zxgIW3NO0vDL09Sq\nAJFg1qPsEKcX4MLcAKkNTg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "codename-shikhsha@codename-shikhsha.iam.gserviceaccount.com",
+  "client_id": "101778086876311981850",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/codename-shikhsha%40codename-shikhsha.iam.gserviceaccount.com"
+}
